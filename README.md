@@ -1,4 +1,4 @@
 # Purpled-up_DWM
-The "every linux user" dwm custom conf
+The "every linux user" custom dwm conf
 
 why the fuck are you reading this?
